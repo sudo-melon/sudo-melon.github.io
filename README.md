@@ -1,3 +1,3 @@
 # sudo-melon.github.io
 
-This is my new GitHub page!
+This is my new GitHub page :)
