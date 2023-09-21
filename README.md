@@ -1,1 +1,1 @@
-# sudo-melon.github.io rgb(255, 0, 0)
+# sudo-melon.github.io
